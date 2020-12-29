@@ -15,8 +15,14 @@ We utilize some recent developments in TDA (Topological Data Analysis) to curate
 ## Files
 
 **baseline.py**: Shows the baseline experiments using Decision-Tree and Naive-Bayes. It uses logistic regression also.
+
+
 **baseline_nn.py**: Shows the baseline experiments described in the paper with the Neural nets.
+
+
 **droso_breeding_genex.npy**: Has the Droso-breeding dataset described in the paper. It is an NumPy nd-array whose rows are cohorts and columns are gene-expression values.
+
+
 **droso_breeding_labels.npy**: We assign label 0 to control, label 1 to the Drosophilas bred on Aspergillus nidulans mutant laeA, and label 2 to both the Drosophilas bred on wild Aspergillusnidulans and sterigmatocystin.
 
 
